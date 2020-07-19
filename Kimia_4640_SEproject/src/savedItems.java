@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @author KimiaR
  *
  */
-public class savedItems {
+public class savedItems implements saved {
 
 	/**
 	 * @param args
@@ -71,7 +71,7 @@ public class savedItems {
 			System.out.println("Error");
 		}
 	}
-	//Override methods form interface class
+	
 	//getters and setters method
 	public String getName() {
 		return name;
@@ -115,5 +115,16 @@ public class savedItems {
 				e.printStackTrace();
 			}
 		}
+	}
+	//Override methods form interface class
+	@Override
+	public void saveItem() {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void reusingSavedItem() {
+		// TODO Auto-generated method stub
+		
 	}
 }
