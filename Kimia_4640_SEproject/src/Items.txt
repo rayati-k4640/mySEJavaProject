@@ -1,0 +1,11 @@
+Chickhen,meat,ChickenPhyllo
+Sobe,bevrage,CranberryGrapefruit
+Muffin,bakery,BlueberryPassion
+Bagels,bakery,Poppyseed
+Coffee,bevrage,ColombianPortioned
+Cheese,dairy,PerronCheddar
+Tomato,vegtables,TricolorCherry
+Pasta,pantry,ShellsMediumDry
+Grapes,fruits,Red
+Toothpick,pharmecy,Frilledegg
+egg
