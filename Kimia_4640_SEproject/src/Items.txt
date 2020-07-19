@@ -8,4 +8,4 @@ Tomato,vegtables,TricolorCherry
 Pasta,pantry,ShellsMediumDry
 Grapes,fruits,Red
 Toothpick,pharmecy,Frilledegg
-egg
+egg,animalProdut,freerunFarm
